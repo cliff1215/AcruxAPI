@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: The API for Acrux cloud pacs
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cliff1215
+Implementation-Vendor-Id: com.cloudpacs.acruxapi
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/AcruxAPI/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
